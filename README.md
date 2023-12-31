@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/fcneves81/fcneves81/blob/main/capa-github.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu sou estudante de Engenharia de Software. <br><br> Estou me especializando em Java e Python, além de ter conhecimentos em outras linguagens, como C#. Eu <strong>amo aprender e descobrir novas coisas </strong> e procuro sempre aplicá-las no meu dia a dia. Além de aprender, <strong>amo ensinar e contribuir para o bom funcionamento de tudo.</strong> Fique a vontade para entrar conhecer mais do que sei fazer e entrar em contato.</p>&nbsp;
+<p align="center">Estudante de Engenharia de Software. <br><br> Estou me especializando em Java e Python, além de ter conhecimentos em outras linguagens, como C#. Eu <strong>amo aprender e descobrir novas coisas </strong> e procuro sempre aplicá-las no meu dia a dia. Além de aprender, <strong>amo ensinar e contribuir para o bom funcionamento de tudo.</strong> Fique a vontade para entrar conhecer mais do que sei fazer e entrar em contato.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fcneves81&theme=radical&mode=weekly" />
