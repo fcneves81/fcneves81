@@ -5,6 +5,14 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fcneves81&theme=radical&mode=weekly" />
+ &nbsp;
+ 
+![Fernando Camargo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcneves81&show_icons=true&theme=transparent)
+ 
+ &nbsp;
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcneves81&layout=compact)
+
 </div>
  
  &nbsp;
